@@ -1,0 +1,3 @@
+This repository contains the first version of the visual-based emotion recognition module developed in the context of the SUN project.
+
+More information coming soon...
